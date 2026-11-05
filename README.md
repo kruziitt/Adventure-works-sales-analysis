@@ -60,3 +60,6 @@ performance. The main business story is that revenue is strongly driven by bicyc
 considerably, and the significant decline after the 2013 peak deserves further investigation. The dashboard allows management
 to move from overall sales performance into product-level analysis and identify areas requiring attention.
 
+<img width="482" height="274" alt="POWER BI" src="https://github.com/user-attachments/assets/33081889-ae47-40c8-bea3-dd10d32b83fb" />
+
+
